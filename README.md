@@ -38,7 +38,7 @@
 	return [
 	    'id' => 'micro-app',
 	    'basePath' => __DIR__,
-	    'controllerNamespace' => 'micro\controllers',
+	    'controllerNamespace' => 'app\controllers',
 	    'aliases' => [
 	        '@micro' => __DIR__,
 	    ],
@@ -49,7 +49,7 @@
 创建一个 `controllers` 目录并将 `SiteController.php` 放入其中，内容如下：
 
 	<?php
-	namespace micro\controllers;
+	namespace app\controllers;
 	
 	use yii\web\Controller;
 	
