@@ -3,3 +3,7 @@
 
 # Composer vendor dir
 /vendor
+
+# Test files
+/tests/
+Test*.php
