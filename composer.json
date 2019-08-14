@@ -1,4 +1,6 @@
 {
+    "name": "yii2_micro",
+    "type": "project",
     "require": {
         "yiisoft/yii2": "^2.0.0"
     },
