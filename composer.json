@@ -1,6 +1,10 @@
 {
     "name": "yii2_sample/yii2_micro",
+    "description": "Yii2 Framework template for micro app",
     "type": "project",
+    "keywords": ["yii2", "template", "micro"],
+    "license": "MIT",
+    "minimum-stability": "dev",
     "require": {
         "php": ">=5.6.0",
         "yiisoft/yii2": "^2.0.0"
