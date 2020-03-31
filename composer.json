@@ -1,5 +1,5 @@
 {
-    "name": "yii2_sample/yii2_micro",
+    "name": "yii2-template/yii2-micro",
     "description": "Yii2 Framework template for micro app",
     "type": "project",
     "keywords": ["yii2", "template", "micro"],
