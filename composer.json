@@ -4,7 +4,7 @@
     "type": "project",
     "keywords": ["yii2", "template", "micro"],
     "license": "MIT",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "php": ">=5.6.0",
         "yiisoft/yii2": "^2.0.0"
